@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>taken</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 10:47:52</sys_created_on>
+        <sys_id>88139ce32f2c9110e3f1d0e62799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>taken</sys_name>
+        <sys_package display_value="Leave Management System" source="x_820118_lms">4c24a31b2f689110e3f1d0e62799b683</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">4c24a31b2f689110e3f1d0e62799b683</sys_scope>
+        <sys_update_name>sys_ui_policy_action_88139ce32f2c9110e3f1d0e62799b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 10:47:52</sys_updated_on>
+        <table>x_820118_lms_leave_request</table>
+        <ui_policy display_value="Making Mandatory fields">7d405ca32f2c9110e3f1d0e62799b619</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
