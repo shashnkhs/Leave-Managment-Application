@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>65f472442fb05510e3f1d0e62799b667</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles>x_820118_lms.leave_bucket_user,x_820118_lms.leave_calculator_user</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 11:51:57</sys_created_on>
+        <sys_id>29f472442fb05510e3f1d0e62799b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leave Bucket</sys_name>
+        <sys_package display_value="Leave Management System" source="x_820118_lms">4c24a31b2f689110e3f1d0e62799b683</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">4c24a31b2f689110e3f1d0e62799b683</sys_scope>
+        <sys_update_name>sys_sg_icon_section_29f472442fb05510e3f1d0e62799b6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 11:51:57</sys_updated_on>
+        <table/>
+        <title>Leave Bucket</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>
